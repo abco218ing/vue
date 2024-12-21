@@ -1,0 +1,23 @@
+{
+  "id": "3890214",
+  "name": "锋云",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1247",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "6536738",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    }
+  ]
+}
